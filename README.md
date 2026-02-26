@@ -1,5 +1,3 @@
-# homelab-media
-
 # Homelab Project: Virtualized Media Infrastructure
 
 ## 1. Project Overview
