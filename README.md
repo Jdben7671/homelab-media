@@ -125,8 +125,3 @@ Solution:
 - Automated backups
 - Infrastructure-as-Code approach
 
----
-
-## 9. Architecture Diagram
-
-(To be added)
