@@ -76,6 +76,7 @@ Services deployed via Portainer:
 - Jellyseer
 
 All services are:
+- Running on a single docker-compose file
 - Run through Gluetun for additional security
 - Volume mapped to merged storage
 - Isolated within Docker
